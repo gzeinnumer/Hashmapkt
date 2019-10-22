@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         hashMap.put(4, "ZEIN")
         hashMap.put(5, "M. Fadli Zein") // 5 as index
 
-        hashMap2.put("index1", "M")
+        hashMap2.put("index1", "M") // index1 as index
 
         println(hashMap[2])
         println(hashMap[5])
