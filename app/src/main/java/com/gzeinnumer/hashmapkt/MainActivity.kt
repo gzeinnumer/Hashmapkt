@@ -28,6 +28,5 @@ class MainActivity : AppCompatActivity() {
         for (key in hashMap.keys){
             println("for1 "+hashMap.get(key))
         }
-
     }
 }
